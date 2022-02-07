@@ -1,13 +1,19 @@
 title: Maxime BALLESTEROS PEREZ # your name (or website title) here
-logo: "/Users/MaxiPunKey/Desktop/DOCS IMPORTANT/PERSO/profile-job.jpeg" # your photo (or logo) here
+logo: "/images/profile-job.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Student @emlyon business school
+  Student
+  <br>
+  @emlyon business school
   <br>
   MSc In Digital Marketing & Data Science
   <br><br>
-  Engineering degree in Computer Science @ESIEE Paris
+  Engineering degree in Computer Science 
   <br>
-  Former Programmer Analyst @RCI Bank & Services
+  @ESIEE Paris
+  <br><br>
+  Former Programmer Analyst
+  <br>
+  @RCI Bank & Services
   <br><br>
   <a href="https://www.linkedin.com/in/maxime-ballesteros-perez-7604b113b/">View My LinkedIn Profile</a> 
   
