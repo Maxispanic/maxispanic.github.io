@@ -19,7 +19,7 @@
 
 ### Data Science
 
-[Machine Learning Project - Classification Songs into Genres] (/[ML_Predict_Songs_Genres/notebooks/FINAL_PROJECT_BALLESTEROS-PEREZ_BERNABEU_CLARENC_LAGARDE_QUSHKU.ipynb])
+[Machine Learning Project - Classification Songs into Genres] (/ML_Predict_Songs_Genres/notebooks/FINAL_PROJECT_BALLESTEROS-PEREZ_BERNABEU_CLARENC_LAGARDE_QUSHKU.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
