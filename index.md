@@ -4,7 +4,7 @@
 
 ### Data Analytics
 
-Pokédex Dashboard with R & Shiny (/sample_page)
+[Pokédex Dashboard with R & Shiny] (/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@ Pokédex Dashboard with R & Shiny (/sample_page)
 
 ### Data Science
 
-Machine Learning Project - Classification Songs into Genres (/sample_page)
+[Machine Learning Project - Classification Songs into Genres] (/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
