@@ -19,7 +19,7 @@
 
 ### Data Science
 
-[Machine Learning Project - Classification Songs into Genres] (/sample_page)
+[Machine Learning Project - Classification Songs into Genres] (/[sample_page](https://github.com/Maxispanic/ML_Predict_Songs_Genres))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
