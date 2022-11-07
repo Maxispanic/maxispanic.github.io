@@ -7,30 +7,12 @@
 [Pokédex Dashboard with R & Shiny]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Data Science Projects
 
 [Machine Learning Project - Classification Songs into Genres](https://github.com/Maxispanic/ML_Predict_Songs_Genres/blob/main/notebooks/FINAL_PROJECT_BALLESTEROS-PEREZ_BERNABEU_CLARENC_LAGARDE_QUSHKU.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
