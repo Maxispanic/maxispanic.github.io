@@ -10,7 +10,7 @@
 
 ### Data Science Projects
 
-[Machine Learning Project - Classification Songs into Genres](https://github.com/Maxispanic/ML_Predict_Songs_Genres/blob/main/notebooks/FINAL_PROJECT_BALLESTEROS-PEREZ_BERNABEU_CLARENC_LAGARDE_QUSHKU.ipynb)
+[Machine Learning Project - Classify Songs into Genres](https://github.com/Maxispanic/ML_Predict_Songs_Genres/blob/main/notebooks/FINAL_PROJECT_BALLESTEROS-PEREZ_BERNABEU_CLARENC_LAGARDE_QUSHKU.ipynb)
 
 
 [Machine Learning Project - Sales Predictions](https://github.com/Maxispanic/ML_Sales_Prediction/blob/main/PROJECT_ML_C2C_French_Store_BALLESTEROS-PEREZ_CHAUHAN_DOUMENGINE_GHANEM_LU_ZHENG.ipynb)
